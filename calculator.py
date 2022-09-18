@@ -36,7 +36,6 @@ while True:
     if event in '1234567890.':
         calculations+=event
         window['-OUTPUTTEXT-'].update(calculations)
-        print(calculations)
 
     if event in '/*+-':
         calculations+=event
