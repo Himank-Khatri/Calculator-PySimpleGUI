@@ -49,4 +49,4 @@ while True:
         calculations = ''
         window['-OUTPUTTEXT-'].update('')
 
-window.close()
+window.close() 
